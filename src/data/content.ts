@@ -62,7 +62,7 @@ type Content = {
 export const content: Record<Lang, Content> = {
   zh: {
     nav: {
-      brand: "RoleAgent",
+      brand: "taylon",
       links: [
         { label: "愿景", href: "#vision" },
         { label: "能力", href: "#capabilities" },
@@ -236,13 +236,13 @@ export const content: Record<Lang, Content> = {
       btn2: "联系我们",
     },
     footer: {
-      copy: "© 2025 RoleAgent. All rights reserved.",
+      copy: "© 2025 taylon. All rights reserved.",
       tagline: "企业数字员工运行平台",
     },
   },
   en: {
     nav: {
-      brand: "RoleAgent",
+      brand: "taylon",
       links: [
         { label: "Vision", href: "#vision" },
         { label: "Capabilities", href: "#capabilities" },
@@ -416,7 +416,7 @@ export const content: Record<Lang, Content> = {
       btn2: "Contact Us",
     },
     footer: {
-      copy: "© 2025 RoleAgent. All rights reserved.",
+      copy: "© 2025 taylon. All rights reserved.",
       tagline: "Enterprise AI Employee Runtime Platform",
     },
   },
