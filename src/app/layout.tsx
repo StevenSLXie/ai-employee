@@ -14,7 +14,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "taylon — AI Digital Employee Platform",
+  title: "Talyon — AI Digital Employee Platform",
   description:
     "Deploy AI employees who proactively work, collaborate, and think alongside your team. Not a tool — a teammate.",
 };
